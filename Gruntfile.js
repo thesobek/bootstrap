@@ -117,7 +117,7 @@ module.exports = function (grunt) {
           //'js/tooltip.js',
           //'js/popover.js',
           //'js/scrollspy.js',
-          //'js/tab.js',
+          'js/tab.js',
           //'js/affix.js'
         ],
         dest: 'dist/js/<%= pkg.name %>.js'
