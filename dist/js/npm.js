@@ -2,5 +2,6 @@
 require('../../js/transition.js')
 require('../../js/alert.js')
 require('../../js/collapse.js')
+require('../../js/dropdown.js')
 require('../../js/modal.js')
 require('../../js/tab.js')
